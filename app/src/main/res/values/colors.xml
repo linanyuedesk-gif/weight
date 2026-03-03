@@ -1,0 +1,7 @@
+﻿<resources>
+    <color name="launcher_bg_start">#0E1622</color>
+    <color name="launcher_bg_end">#1F3045</color>
+    <color name="launcher_shape">#A7D8FF</color>
+    <color name="launcher_line">#5DB4FF</color>
+    <color name="launcher_dot">#F9FCFF</color>
+</resources>
